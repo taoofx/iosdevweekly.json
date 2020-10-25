@@ -1,4 +1,4 @@
-#iosdevweekly.json
+a port remix of #iosdevweekly.json
 ## This repo contains a native iOS app.
 You're probably thinking "There's only two JSON files here and that's it, how can this possibly be a native app?"
 
