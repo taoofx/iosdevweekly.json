@@ -1,7 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "iOS Dev Weekly Detail",
+      "title": "detailsNewslang4",
       "styles": {
         "news": {
           "background": "#0073c5"
@@ -59,7 +59,7 @@
               "color": "#ffffff",
               "shy": "true"
             },
-            "title": "iOS Dev Weekly"
+            "title": "News4"
           },
           "sections": {
             "{{#each $jason.find('section.category')}}": {
